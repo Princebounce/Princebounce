@@ -1,7 +1,7 @@
 # Hi there, I'm Ayo Lawal! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Front+End+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -102,42 +102,27 @@ const prince = {
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/princebounce/project1">
+  <a href="https://github.com/kokombo/Shopivol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=princebounce&repo=project1&theme=tokyonight" alt="Project 1" />
   </a>
-  <a href="https://github.com/princebounce/project2">
+  <a href="https://github.com/GATEWAY-SHIELD/gs-admin-fe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=princebounce&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
 </div>
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](https://your-blog-link.com)
-- [Another Awesome Blog Post](https://your-blog-link.com)
-- [Tech Tutorial You Wrote](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/taofiklawal/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:layomide81@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://portfolio-tau-ruby-37.vercel.app/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -154,12 +139,11 @@ const prince = {
 
 ## 🎮 When I'm Not Coding
 
-- 🎸 Playing guitar and making music
-- 📚 Reading tech blogs and sci-fi novels
-- 🎮 Gaming and exploring virtual worlds
+- 🏊‍♀️ Swimming after listening to music
+- 📚 Reading sociology and psychology books 
+- 🎮 Gaming and watching anime
 - 🌱 Learning new technologies and frameworks
-- ☕ Brewing the perfect cup of coffee
-- 🏃‍♂️ Running and staying active
+- 🍲 Trying recipes from youtube
 
 ---
 
@@ -169,5 +153,5 @@ const prince = {
 
 <div align="center">
   <h3>✨ Made with ❤️ and lots of ☕ ✨</h3>
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
+  <p><i>"Code is like humor. If it lands and fits, do not touch 😂"</i> – Cory House</p>
 </div>
