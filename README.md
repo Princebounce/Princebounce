@@ -91,28 +91,6 @@ const prince = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/princebounce/princebounce/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/kokombo/Shopivol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=princebounce&repo=project1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/GATEWAY-SHIELD/gs-admin-fe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=princebounce&repo=project2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div>
-
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
